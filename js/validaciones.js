@@ -1,5 +1,3 @@
-
-
 export function valida(input) {
     const tipoDeInput= input.dataset.tipo
     if(validadores[tipoDeInput])  {
